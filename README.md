@@ -43,6 +43,15 @@
 
 </details>
 
+## Combinatorics
+
+<details>
+<summary>Problems</summary>
+
+- [Tiles](https://codeforces.com/contest/1178/problem/C)
+
+</details>
+
 
 ## Two Pointers
 
