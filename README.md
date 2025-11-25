@@ -11,6 +11,17 @@
 
 </details>
 
+
+## Combinatorics
+
+<details>
+<summary>Problems</summary>
+
+- [Tiles](https://codeforces.com/contest/1178/problem/C)
+
+</details>
+
+
 ## Modulo and Binary Exponentiation
 
 <details>
@@ -40,15 +51,6 @@
 
 - [K-th Sum](https://codeforces.com/problemset/problem/XXXX)
 - [Chat Ban](https://codeforces.com/problemset/problem/YYYY)
-
-</details>
-
-## Combinatorics
-
-<details>
-<summary>Problems</summary>
-
-- [Tiles](https://codeforces.com/contest/1178/problem/C)
 
 </details>
 
