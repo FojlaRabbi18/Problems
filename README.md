@@ -55,6 +55,7 @@
 
 - [K-th Sum](https://codeforces.com/problemset/problem/XXXX)
 - [Chat Ban](https://codeforces.com/problemset/problem/YYYY)
+- [Scuza](https://codeforces.com/contest/1742/problem/E)
 
 </details>
 
