@@ -68,6 +68,7 @@
 <summary>Problems</summary>
 
 - [Monocarp's String](https://codeforces.com/problemset/problem/2145/C)
+- [Binary Deque](https://codeforces.com/contest/1692/problem/E)
 
 </details>
 
@@ -102,6 +103,7 @@
 
 - [Catching the Krug](https://codeforces.com/contest/2152/problem/B)
 - [ Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D)
+- [Stone Age Problem](https://codeforces.com/contest/1679/problem/B)
 
 </details>
 
