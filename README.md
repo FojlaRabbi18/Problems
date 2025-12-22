@@ -107,4 +107,13 @@
 
 </details>
 
+## Super Implementation Technique
+
+<details>
+<summary>Problems</summary>
+
+- [Divisible Pairs](https://codeforces.com/contest/1931/problem/D)
+
+</details>
+
 
