@@ -103,6 +103,7 @@
 - [Divisible Pairs](https://codeforces.com/contest/1931/problem/D)
 - [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D)
 - [Romantic Glasses](https://codeforces.com/contest/1915/problem/E)
+- [Bracket Coloring](https://codeforces.com/contest/1837/problem/D)
 
 </details>
 
