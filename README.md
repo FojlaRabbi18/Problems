@@ -107,6 +107,15 @@
 
 </details>
 
+## Dynamic Programming
+
+<details>
+<summary>Problems</summary>
+
+- [Hossam and Friends](https://codeforces.com/contest/1771/problem/B)
+</details>
+
+
 ## Random
 
 <details>
